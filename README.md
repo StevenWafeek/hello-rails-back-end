@@ -22,6 +22,7 @@
     - [Install](#install)
     - [Usage](#usage)
   - [👥 Authors](#-authors)
+  - [🔭 Future Features](#future-features)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -67,7 +68,7 @@ In order to run this project you need:
 
 ### Frontend
 
-Here is the [Front-End](https://github.com/) of this app.
+Here is the [Front-End](https://github.com/StevenWafeek/hello-react-front-end/pull/1) of this app.
 
 ### Setup
 
@@ -119,6 +120,10 @@ Here is the [Front-End](https://github.com/) of this app.
   ](https://www.linkedin.com/in/steven-wafeek-b629341b6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Add more endpoints]**
 
 <!-- CONTRIBUTING -->
 
